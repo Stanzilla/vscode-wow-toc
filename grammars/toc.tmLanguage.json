@@ -18,7 +18,7 @@
           "name": "entity.name.tag.localized.toc"
         },
         {
-          "match": "(Interface|Title|Notes|Description|Globe-Main|Globe-Post|RequiredDeps|Dependencies|\\bDep[^:]+|OptionalDeps|LoadOnDemand|LoadWith|LoadManagers|SavedVariablesPerCharacter|SavedVariables|DefaultState|Secure|Author|Version)",
+          "match": "(Interface|Title|Notes|Description|Globe|Globe-Main|Globe-Post|RequiredDeps|Dependencies|\\bDep[^:]+|OptionalDeps|LoadOnDemand|LoadWith|LoadManagers|SavedVariablesPerCharacter|SavedVariables|DefaultState|Secure|Author|Version)",
           "name": "entity.name.tag.toc"
         },
         {
