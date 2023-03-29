@@ -1,9 +1,9 @@
 # vscode-wow-toc for VS Code
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/github/release/Septh/vscode-wow-bundle.svg?style=flat-square)](https://github.com/Septh/vscode-wow-bundle/releases)
+[![GitHub](https://img.shields.io/github/release/Stanzilla/vscode-wow-toc.svg?style=flat-square)](https://github.com/Stanzilla/vscode-wow-toc/releases)
 
-This World of Warcraft addon developer toolset for VS Code includes an improved Lua language grammar with WoW API knowledge, a .toc file grammar, colorization for both .lua source and .toc files, and more.
+This World of Warcraft addon developer toolset for VS Code includes a .toc file grammar and colorization.
 
 
 ## Features
