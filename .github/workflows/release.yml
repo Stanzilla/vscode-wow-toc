@@ -14,12 +14,12 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 22
           cache: npm
       - run: npm install
 
       - name: Release Plugin
-        uses: lannonbr/vsce-action@3.0.0
+        uses: lannonbr/vsce-action@4.0.0
         env:
           PUBLISHER_TOKEN: ${{ secrets.PUBLISHER_TOKEN }}
         with:

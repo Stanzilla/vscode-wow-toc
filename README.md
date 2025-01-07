@@ -5,12 +5,10 @@
 
 This World of Warcraft addon developer toolset for VS Code includes a .toc file grammar and colorization.
 
-
 ## Features
 
 * `.toc` file colorization
 * starting point snippet
-
 
 ### Grammars
 
