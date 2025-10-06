@@ -24,7 +24,7 @@
               "name": "entity.name.tag.localized.toc"
             },
             {
-              "match": "(?i)(Interface|Title|Notes|RequiredDeps|\\bDep[^:]*|OptionalDeps|LoadOnDemand|LoadWith|LoadManagers|AllowLoadGameType|SavedVariablesPerCharacter|SavedVariables|LoadSavedVariablesFirst|DefaultState|Author|Version|AddonCompartmentFunc(OnEnter|OnLeave)?|IconAtlas|IconTexture|Category|Group)",
+              "match": "(?i)(Interface|Title|Notes|RequiredDeps|\\bDep[^:]*|OptionalDeps|LoadOnDemand|LoadWith|LoadManagers|AllowLoadGameType|SavedVariablesPerCharacter|SavedVariables|LoadSavedVariablesFirst|DefaultState|Author|Version|AddonCompartmentFunc(OnEnter|OnLeave)?|IconAtlas|IconTexture|Category|Group|AllowAddOnTableAccess)",
               "name": "entity.name.tag.toc"
             },
             {
